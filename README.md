@@ -8,3 +8,5 @@ algoritmos presentes nesse trabalho:
   FloodFill;
   Recorte de linha;
   e Transformações básicas(escala, translação e rotação;
+  
+  
